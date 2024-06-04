@@ -9,6 +9,7 @@
     margin: 0 auto;
     padding: 0 4%;
     justify-content: space-between;
+    background-color: #83ffff5f;
 }
 .home{
     background-size: cover;
@@ -23,6 +24,7 @@
     list-style: none;
 }
 .menu li{
+    background-color: #83ffff5f;
     margin-left: 30px;
 }
 .menu li a{
@@ -51,7 +53,7 @@
     text-decoration: none;
 }
 #home{
-    background-image: url(./wallpaper.jpg);
+    background-image: url(./wallpaper2.jpg);
     background-color: #f6f5f4;
     min-height: 100vh;
 }
