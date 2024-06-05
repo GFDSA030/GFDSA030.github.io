@@ -44,6 +44,7 @@ body
 }
 .menu
 {
+    display: flex;
     list-style: none;
     padding-right: 10px;
 }
@@ -51,6 +52,8 @@ body
 {
     border-radius: 30%;
     padding: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
     background-color: #0be40b;
 }
 .menu li a
