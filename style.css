@@ -26,10 +26,21 @@ body
 }
 .header
 {
-    height: 70px;
+    max-height: 70px;
     background-color: #83ffff5f;
     justify-content: space-between;
     display: flex;
+}
+.page-title
+{
+    height: 40px;
+    padding: 5px;
+    list-style: none;
+}
+.page-title li a
+{
+    font-size: clamp(10px,40px,80px);
+    color: #00ffff;
 }
 .menu
 {
